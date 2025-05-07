@@ -1,0 +1,143 @@
+{
+  "title": "Desarrollador Web Frontend - santiago perez kay ",
+  "description": "Desarrollador Full Stack de Argentina. Especialista en: Java,Spring boot,hibernate, JavaScript,React, Node.js, HTML5, CSS5 ",
+  "navbar": [
+    {
+      "label": "Inicio",
+      "href": "#top"
+    },
+    {
+      "label": "Experiencia",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "proyectos",
+      "href": "#proyectos"
+    },
+    {
+      "label": "Sobre mí",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "¡Disponible para trabajar!",
+    "title": "¡Hola soy santiago perez kay ",
+    "job_title": "<strong>Desarrollador Full Stack</strong> de Argentina.",
+    "description": "Especialista en: Java - Spring boot & JavaSript - React - Node.js",
+    "cta": "Contactame"
+  },
+  "experience": {
+    "title": "Experiencia laboral",
+    "jobs": {
+      "jobs_title": ["Freelance"],
+      "jobs_description": [
+        {
+          "title": "Desarrollador Backend - Script con Pandas y Python",
+          "time": ["Jan 2023"],
+          "description": "Desarrollo de un script en Python, utilizando la libreria 'Pandas', para extraer datos de un Excel y enviar mensajes automátizados a WhatsApp.Configuración de Windows para automatizar la ejecución del script a una hora específica",
+          "list": [
+            "Diseño de Script",
+            "automatizacion de Tareas",
+            "Configuracion de Windows"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "proyectos",
+    "projects": [
+      {
+        "title": "IUPI",
+        "description": "3er lugar en la Hackthone a través de la plataforma No Country.Iupi es una APP de Gestion de ahorro e inversiones,Brindar opciones accesibles para concretar metas financieras.  ",
+        "image": "/src/images/projects/iupi.jpg",
+        "techs": ["JavaScript", "React", "TailwindCSS", "java", "Springboot"],
+        "code": "Código",
+        "preview": "Demo",
+        "demoUrl": "https://www.youtube.com/watch?v=7FEeeC9Dz4Q",
+        "githubProyectUrl": "https://github.com/SantiagoPerezKay/hackthone-iupi"
+      },
+      {
+        "title": "EUREKA",
+        "description": "Eureka es una plataforma en línea de E-learning que ofrece una amplia variedad de cursos sobre diversos temas. Los profesores pueden crear cursos y agregarles contenido. Los estudiantes pueden inscribirse y estudiar el curso seleccionado.",
+        "image": "/src/images/projects/eurekas.jpg",
+        "techs": [
+          "JavaScript",
+          "TailwindCSS",
+          "React",
+          "java",
+          "Springboot",
+          "PostgreSQL"
+        ],
+        "code": "Código",
+        "preview": "Vista previa",
+        "demoUrl": "https://res.cloudinary.com/dunjzopgf/video/upload/f_auto:video,q_auto/v1/courses/njfjxva0y4f12rmtw4g5",
+        "githubProyectUrl": "https://github.com/SantiagoPerezKay/Plataforma-de-E-learning-EUREKA"
+      },
+      {
+        "title": "Bot Scanner Binance",
+        "description": "bot que scannea todo el tiempo un rango de precio 'X' en un intervalo 'Y' y manda alerta a un canal de telegram mediante un bot de telegram automaticamente.Tambien informa por consola la informacion mandada.",
+        "image": "/src/images/projects/bot.jpg",
+        "techs": ["python"],
+        "code": "Código",
+        "preview": "Vista previa",
+        "demoUrl": "https://www.youtube.com/watch?v=X8JchRszT4o",
+        "githubProyectUrl": "https://github.com/SantiagoPerezKay/Bot_Scanner_binance_price"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contribuciones",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Soy Desarrollador Full Stack",
+    "description": "Hace más de 3 años retomé mis estudios en la programación, primero estudiando de forma autodidacta con Python.\n\nAl transcurrir 6 meses, se me presentó el plan 'Argentina Programa 4.0', donde se dictaba un curso Full Stack (lo único de Front era en app Desktop con Swing) con JAVA.\n\nMientras continuaba mis estudios (AUTODIDACTA), comencé a inscribirme en una plataforma llamada 'No Country', que permite conectar programadores y trabajar en equipo realizando apps de mayor envergadura.\n\nEn esta misma plataforma pude participar en 2 hackathones para adquirir mayor experiencia, ya que ahora se sumaba un 'CLIENTE REAL'.\n\nHasta llegar a la actualidad, donde me encuentro sumando a mis conocimientos React y Next.js. Soy capaz de hacer: Sistemas de automatización,APIs RESTful,App WEB, App Deskop y +... "
+  },
+  "contact": {
+    "title": "¿Listo para dar vida a tus ideas?",
+    "subtitle": "Puedo impulsar tu proyecto o formar parte de tu equipo"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Diseñado con",
+      "designed_by": "Ana rangel"
+    },
+    "developed": {
+      "developed_with": "modificado con",
+      "developed_by": "por"
+    }
+  }
+}

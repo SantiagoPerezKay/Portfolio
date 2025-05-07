@@ -1,0 +1,143 @@
+{
+  "title": "Frontend Web Developer - santiago perez kay",
+  "description": "Full Stack Developer from Argentina. Specialist in: Java, Spring Boot, Hibernate, JavaScript, React, Node.js, HTML5, CSS5",
+ "navbar": [
+  {
+    "label": "Home",
+    "href": "#top"
+  },
+  {
+    "label": "Experience",
+    "href": "#work-experience"
+  },
+  {
+    "label": "Projects",
+    "href": "#Projects"
+  },
+  {
+    "label": "About me",
+    "href": "#about-me"
+  }
+],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hi, I'm santiago perez kay",
+    "job_title": "<strong>Full Stack Developer</strong> from Argentina.",
+    "description": "Specialist in: Java - Spring Boot & JavaScript - React - Node.js",
+    "cta": "Contact me"
+  },
+  "experience": {
+    "title": "Work experience",
+    "jobs": {
+      "jobs_title": ["Freelance"],
+      "jobs_description": [
+        {
+          "title": "Backend Developer - Script with Pandas and Python",
+          "time": ["Jan 2023"],
+          "description": "Development of a script in Python, using the 'Pandas' library, to extract data from an Excel file and send automated messages to WhatsApp. Windows configuration to automate the execution of the script at a specific time.",
+          "list": [
+            "Script Design",
+            "Task Automation",
+            "Windows Configuration"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "IUPI",
+        "description": "3rd place in the Hackathon through the No Country platform. Iupi is a Savings and Investment Management APP, providing accessible options to achieve financial goals.",
+        "image": "/src/images/projects/iupi.jpg",
+        "techs": ["JavaScript", "React", "TailwindCSS", "java", "Springboot"],
+        "code": "Code",
+        "preview": "Demo",
+        "demoUrl": "https://www.youtube.com/watch?v=7FEeeC9Dz4Q",
+        "githubProyectUrl": "https://github.com/SantiagoPerezKay/hackthone-iupi"
+      },
+      {
+        "title": "EUREKA",
+        "description": "Eureka is an online E-learning platform that offers a wide variety of courses on various topics. Teachers can create courses and add content to them. Students can enroll and study the selected course.",
+        "image": "/src/images/projects/eurekas.jpg",
+        "techs": [
+          "JavaScript",
+          "TailwindCSS",
+          "React",
+          "java",
+          "Springboot",
+          "PostgreSQL"
+        ],
+        "code": "Code",
+        "preview": "Preview",
+        "demoUrl": "https://res.cloudinary.com/dunjzopgf/video/upload/f_auto:video,q_auto/v1/courses/njfjxva0y4f12rmtw4g5",
+        "githubProyectUrl": "https://github.com/SantiagoPerezKay/Plataforma-de-E-learning-EUREKA"
+      },
+      {
+        "title": "Binance Scanner Bot",
+        "description": "Bot that constantly scans a price range 'X' at an interval 'Y' and sends alerts to a Telegram channel via a Telegram bot automatically. It also informs the console about the information sent.",
+        "image": "/src/images/projects/bot.jpg",
+        "techs": ["python"],
+        "code": "Code",
+        "preview": "Preview",
+        "demoUrl": "https://www.youtube.com/watch?v=X8JchRszT4o",
+        "githubProyectUrl": "https://github.com/SantiagoPerezKay/Bot_Scanner_binance_price"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contributions",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In conjunction with a marketing agency in Texas, United States. I collaborated on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In conjunction with a marketing agency in Texas, United States. I collaborated on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In conjunction with a marketing agency in Texas, United States. I collaborated on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "I am a Full Stack Developer",
+    "description": "More than 3 years ago, I resumed my studies in programming, first studying Python autodidactically.\n\nAfter 6 months, the 'Argentina Programa 4.0' plan was presented to me, which offered a Full Stack course (the only Front-end part was in a Desktop app with Swing) with JAVA.\n\nWhile continuing my (SELF-TAUGHT) studies, I started to register on a platform called 'No Country', which allows connecting programmers and working in teams to create larger apps.\n\nOn this same platform, I was able to participate in 2 hackathons to gain more experience, as now a 'REAL CLIENT' was involved.\n\nUp to the present, I am adding React and Next.js to my knowledge. I am capable of doing: Automation systems, RESTful APIs, WEB Apps, Desktop Apps and more..."
+  },
+  "contact": {
+    "title": "Ready to bring your ideas to life?",
+    "subtitle": "I can boost your project or be part of your team"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Designed with",
+      "designed_by": "Ana rangel"
+    },
+    "developed": {
+      "developed_with": "modified with",
+      "developed_by": "by"
+    }
+  }
+}
